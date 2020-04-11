@@ -11,10 +11,15 @@
       "id": 2
     },
     {
-      "title": "I created this stream",
-      "description": "This was made by me",
+      "title": "Edit 2",
+      "description": "Edited stream by patch request",
       "userId": "112427192250374235574",
       "id": 3
+    },
+    {
+      "title": "Edited",
+      "description": "Edited stream",
+      "id": 4
     }
   ]
 }
